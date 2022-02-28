@@ -1,0 +1,17 @@
+
+
+table{
+    margin-top: 50px;
+    text-align: center;
+    background: rgb(118, 193, 228);
+    color:rgba(8, 17, 1, 0.421);
+    
+    }
+    #show th, #show td{
+        padding: 13px;
+    
+    }
+    #btn td input{
+        width: 100%;
+    
+    }
